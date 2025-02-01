@@ -69,6 +69,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nayiswftw/nayiswftw/output/snake.svg" alt="Snake animation" />
-
+![snake gif](https://github.com/nayiswftw/nayiswftw/blob/output/github-snake-dark.svg)
 ###
