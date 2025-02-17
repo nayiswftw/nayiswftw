@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate frontend developer</p>
+<p align="left">Curently rusting 🦀</p>
 
 ###
 
